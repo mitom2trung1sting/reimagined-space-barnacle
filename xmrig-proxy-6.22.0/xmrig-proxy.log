@@ -1,0 +1,9 @@
+ * ABOUT        xmrig-proxy/6.22.0 gcc/13.2.1 (built for Linux x86-64, 64 bit)
+ * LIBS         libuv/1.48.0 OpenSSL/3.0.13 
+ * MODE         nicehash
+ * POOL #1      gulf.moneroocean.stream:10128 coin Monero
+ * BIND #1      0.0.0.0:9000
+ * COMMANDS     hashrate, connections, verbose, workers
+[2025-03-17 03:35:52.353]  net      0000 use pool gulf.moneroocean.stream:10128  66.23.199.44 
+[2025-03-17 03:35:52.353]  net      0000 new job from gulf.moneroocean.stream:10128 diff 1280169 algo rx/0 height 3369451
+[2025-03-17 03:36:05.016]  net      0000 new job from gulf.moneroocean.stream:10128 diff 1280169 algo rx/0 height 3369451

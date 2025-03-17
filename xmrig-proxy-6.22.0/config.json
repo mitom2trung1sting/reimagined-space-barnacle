@@ -1,0 +1,63 @@
+{
+    "access-log-file": null,
+    "access-password": null,
+    "algo-ext": true,
+    "api": {
+        "id": null,
+        "worker-id": null
+    },
+    "http": {
+        "enabled": false, 
+        "host": "127.0.0.1",
+        "port": 9000,
+        "access-token": null,
+        "restricted": false
+    },
+    "background": false,
+    "bind": [
+        {
+            "host": "0.0.0.0",
+            "port": 9000
+        }
+    ],
+    "colors": true,
+    "title": true,
+    "custom-diff": 0,
+    "custom-diff-stats": false,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
+    "log-file": "xmrig-proxy.log",
+    "mode": "nicehash",
+    "pools": [
+        {
+            "algo": "rx/0",
+            "coin": "monero",
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "45R6ZmMuwKMjdsg6zGVM85hMdz5qjBb9hAJWueDaXAKz7bHPafajD6HHU3WEbjRu5eE85pSnekUE41e6HGjvBKNE3dC45rQ",
+            "pass": "x",
+            "rig-id": null,
+            "keepalive": false,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false
+        }
+    ],
+    "retries": 2,
+    "retry-pause": 1,
+    "reuse-timeout": 600,
+    "tls": {
+        "enabled": false,
+        "protocols": null,
+        "cert": null,
+        "cert_key": null,
+        "ciphers": null,
+        "ciphersuites": null,
+        "dhparam": null
+    },
+    "user-agent": null,
+    "syslog": false,
+    "verbose": true,
+    "watch": true,
+    "workers": true
+}

@@ -1,0 +1,9 @@
+ * ABOUT        xmrig-proxy/6.22.0 gcc/13.2.1 (built for Linux x86-64, 64 bit)
+ * LIBS         libuv/1.48.0 OpenSSL/3.0.13 
+ * MODE         simple
+ * POOL #1      gulf.moneroocean.stream:10128 algo auto
+ * BIND #1      0.0.0.0:3333
+ * COMMANDS     hashrate, connections, verbose, workers
+[2025-03-16 14:50:01.173]  proxy    0.00 kH/s, shares: 0/0 +0, upstreams: 0, miners: 0 (max 0) +0/-0
+[2025-03-16 14:51:01.233]  proxy    0.00 kH/s, shares: 0/0 +0, upstreams: 0, miners: 0 (max 0) +0/-0
+[2025-03-16 14:52:01.291]  proxy    0.00 kH/s, shares: 0/0 +0, upstreams: 0, miners: 0 (max 0) +0/-0
